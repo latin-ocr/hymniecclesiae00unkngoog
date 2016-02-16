@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymniecclesiae00unkngoog_0241.png"; bbox 0 0 2150 3800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 271 1210 1389 1276">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 271 1210 1389 1276">
+     <span class='ocr_line' id='line_1_1' title="bbox 271 1210 1389 1276; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 271 1211 660 1275; x_wconf 92' lang='lat' dir='ltr'>HYMNI</span> <span class='ocrx_word' id='word_1_2' title='bbox 750 1210 1389 1276; x_wconf 87' lang='lat' dir='ltr'><strong>ECCLESIAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 699 1478 969 1525">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 699 1478 969 1525">
+     <span class='ocr_line' id='line_1_2' title="bbox 699 1478 969 1525; baseline 0.015 -4"><span class='ocrx_word' id='word_1_3' title='bbox 699 1478 854 1524; x_wconf 85' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 912 1479 969 1525; x_wconf 91' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 1691 1116 1750">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 1691 1116 1750">
+     <span class='ocr_line' id='line_1_3' title="bbox 548 1691 1116 1750; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 548 1693 599 1750; x_wconf 94' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_6' title='bbox 642 1691 1116 1750; x_wconf 91' lang='lat' dir='ltr'>BREVIARIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 247 1890 1417 2264">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 247 1890 1417 2264">
+     <span class='ocr_line' id='line_1_4' title="bbox 247 1890 1417 1964; baseline -0.003 -12"><span class='ocrx_word' id='word_1_7' title='bbox 247 1890 658 1963; x_wconf 89' lang='lat' dir='ltr'>ROMANO‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 704 1890 1417 1964; x_wconf 83' lang='lat' dir='ltr'>SARISBURIENSI‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 461 2048 1198 2107; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 461 2048 1036 2107; x_wconf 87' lang='lat' dir='ltr'>EBORACENSI</span> <span class='ocrx_word' id='word_1_10' title='bbox 1082 2048 1198 2106; x_wconf 94' lang='lat' dir='ltr'><strong>ET</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 618 2204 1039 2264; baseline 0.005 -2"><span class='ocrx_word' id='word_1_11' title='bbox 618 2204 1039 2264; x_wconf 92' lang='lat' dir='ltr'><strong>ALIUNDE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

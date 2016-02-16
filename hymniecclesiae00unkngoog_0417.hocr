@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymniecclesiae00unkngoog_0417.png"; bbox 0 0 2150 3800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 627 1474 1048 1540">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 627 1474 1048 1540">
+     <span class='ocr_line' id='line_1_1' title="bbox 627 1474 1048 1540; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 627 1474 1048 1540; x_wconf 88' lang='lat' dir='ltr'>PROSAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 169 1693 1499 1760">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 169 1693 1499 1760">
+     <span class='ocr_line' id='line_1_2' title="bbox 169 1693 1499 1760; baseline 0.005 -7"><span class='ocrx_word' id='word_1_2' title='bbox 169 1695 231 1753; x_wconf 92' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 275 1693 918 1760; x_wconf 83' lang='lat' dir='ltr'>PROCESSIONALI</span> <span class='ocrx_word' id='word_1_4' title='bbox 959 1696 1499 1760; x_wconf 86' lang='lat' dir='ltr'>EBORACENSI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 786 3242 885 3285">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 786 3242 885 3285">
+     <span class='ocr_line' id='line_1_3' title="bbox 786 3242 885 3285; baseline 0.02 -2"><span class='ocrx_word' id='word_1_5' title='bbox 786 3242 885 3285; x_wconf 82' lang='lat' dir='ltr'>CC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

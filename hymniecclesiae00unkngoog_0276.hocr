@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymniecclesiae00unkngoog_0276.png"; bbox 0 0 2150 3800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 553 211 1492 272">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 553 211 1492 272">
+     <span class='ocr_line' id='line_1_1' title="bbox 553 211 1492 272; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 553 260 662 272; x_wconf 41' lang='grc' dir='ltr'><strong>ἡ*</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1229 211 1492 269; x_wconf 64' lang='lat' dir='ltr'><strong>sabbam»-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 798 475 1627 612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 798 460 1627 612">
+     <span class='ocr_line' id='line_1_2' title="bbox 856 475 1627 531; baseline -0.001 -19"><span class='ocrx_word' id='word_1_3' title='bbox 856 480 878 512; x_wconf 72' lang='lat'>÷</span> <span class='ocrx_word' id='word_1_4' title='bbox 942 475 1312 516; x_wconf 49' lang='lat' dir='ltr'><strong>,er-*flam</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1347 475 1627 531; x_wconf 67' lang='lat' dir='ltr'><strong>vespere:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 798 539 1627 612; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 798 540 818 552; x_wconf 65' lang='lat'><strong>&#39;¹</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 850 560 1073 612; x_wconf 44' lang='grc' dir='ltr'><strong>’ἑῇ-ἐπῆ.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1126 556 1194 592; x_wconf 69' lang='lat' dir='ltr'><strong>ut,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1228 552 1290 593; x_wconf 78' lang='lat' dir='ltr'><strong>te</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1330 539 1627 612; x_wconf 55' lang='lat' dir='ltr'><strong>swpsaees</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 806 619 1637 676">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 806 619 1637 676">
+     <span class='ocr_line' id='line_1_4' title="bbox 806 619 1637 676; baseline -0.001 0"><span class='ocrx_word' id='word_1_11' title='bbox 806 624 1122 676; x_wconf 43' lang='grc' dir='ltr'><strong>ἈΗΕ-πῃ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1174 624 1320 676; x_wconf 67' lang='lat' dir='ltr'><strong>mter</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1358 619 1637 676; x_wconf 70' lang='lat' dir='ltr'><strong>CoditeS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 801 428 842 466">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 801 428 842 466">
+     <span class='ocr_line' id='line_1_5' title="bbox 801 428 842 466; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 801 460 842 466; x_wconf 76' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_15' title='bbox 814 428 826 432; x_wconf 89' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 4 3124 1138 3692">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 4 3124 1138 3692">
+     <span class='ocr_line' id='line_1_6' title="bbox 4 3124 1138 3692; baseline 0 108"><span class='ocrx_word' id='word_1_16' title='bbox 4 3124 1138 3692; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
